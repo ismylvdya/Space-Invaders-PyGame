@@ -79,7 +79,7 @@ UFO
 
 ## 🖥 Software requirements
 
-the PyGame library connected to this project in your IDE
+the PyGame library connected to this project in your IDE (I used Pygame 2.5.2 in PyCharm 2023.1.3).
 
 ## 🤌🏽 Contact
 
